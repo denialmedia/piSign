@@ -1,5 +1,5 @@
-marquee#text0 { position: fixed; top:  0px; left: 0px; width: 100%; color: white; background-color: blue; font-size: 30px; }
-marquee#text1 { position: fixed; bottom: 0px; left: 0px; width: 100%; color: white; background-color: red;  font-size: 30px; }
+
+marquee#text1 { position: fixed; bottom: 0px; left: 0px; width: 100%; color: white; background-color: #5a295aa8;  font-size: 30px; }
 
 
 
@@ -9,7 +9,7 @@ marquee#text1 { position: fixed; bottom: 0px; left: 0px; width: 100%; color: whi
 
 body {
     height: 100vh;
-     background: linear-gradient(90deg,#e52e71,#ff8a00);
+     background: linear-gradient(90deg,#5f3059,#b276eb);
   
   }
   
@@ -20,7 +20,7 @@ body {
       top: 20%;
       width: 450px;
       height: 450px;
-      background: #17141d;
+      background: #17141d28;
       border-radius: 62% 47% 82% 35% / 45% 45% 80% 66%;
       will-change: border-radius, transform, opacity;
       animation: sliderShape 5s linear infinite;
@@ -48,4 +48,5 @@ body {
   
 
 
-  
+
+
